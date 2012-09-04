@@ -1,0 +1,10 @@
+GEM
+  remote: http://rubygems.org/
+  specs:
+    rouge (0.0.3)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rouge
