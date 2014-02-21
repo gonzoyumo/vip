@@ -1,5 +1,3 @@
 source "http://rubygems.org"
 
-gem "rouge"
-gem "rugged"
-gem "rake"
+gem "gemnasium-gitlab-service"
