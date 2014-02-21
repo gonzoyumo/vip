@@ -2,9 +2,11 @@ GEM
   remote: http://rubygems.org/
   specs:
     rouge (0.0.3)
+    rugged (0.19.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
   rouge
+  rugged
