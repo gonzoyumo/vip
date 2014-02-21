@@ -1,4 +1,4 @@
 source "http://rubygems.org"
 
 gem "rouge"
-gem "gemnasium-gitlab-service"
+
